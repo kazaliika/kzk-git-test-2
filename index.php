@@ -9,7 +9,12 @@
 
 <body>
     <h1>Hello Linggau</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis possimus optio dolore placeat quisquam natus illum omnis excepturi tempore quaerat sed reiciendis perspiciatis iure voluptate vel eligendi, blanditiis itaque beatae.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis possimus optio dolore 
+        placeat quisquam natus illum omnis excepturi tempore quaerat sed reiciendis perspiciatis 
+        iure voluptate vel eligendi, blanditiis itaque beatae.</p>
 </body>
-
+    <ul>
+        <li>one</li>
+        <li>two</li>
+    </ul>
 </html>
